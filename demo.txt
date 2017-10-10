@@ -1,2 +1,4 @@
 hello world
 make the change
+git has a mutable index callde stage
+
