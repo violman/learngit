@@ -1,4 +1,5 @@
-hello world
+hello wold
 make the change
 git has a mutable index callde stage
+git tracks changes
 
